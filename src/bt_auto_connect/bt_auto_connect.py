@@ -1,3 +1,4 @@
+#!/usr/bin/env uv
 import asyncio
 
 from dbus_next.aio.message_bus import MessageBus

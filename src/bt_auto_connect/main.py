@@ -1,3 +1,4 @@
+#!/usr/bin/env uv
 import asyncio
 
 from .bt_auto_connect import bt_auto_connect
